@@ -1,5 +1,6 @@
-/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/PlayerTest.java
-/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/GameTest.java
-/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/AppIntegrationTest.java
+/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/CardTest.java
+/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/GameEngineTest.java
+/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/PlayerStateTest.java
+/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/SupplyTest.java
+/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/PurchaseStrategyTest.java
 /workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/AppTest.java
-/workspaces/ip1-shunuanli/ip1/src/test/java/edu/brandeis/cosi103a/ip1/DieTest.java
